@@ -1,4 +1,4 @@
-              • Программный код
+      • Программный код
 
 ![image](https://user-images.githubusercontent.com/71172186/207374218-3fdc5c34-b852-4f47-906b-0b43ae47f1a3.png)
 
