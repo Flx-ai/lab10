@@ -1,18 +1,18 @@
-• Программный код
+  • Программный код
 
 ![image](https://user-images.githubusercontent.com/71172186/207374218-3fdc5c34-b852-4f47-906b-0b43ae47f1a3.png)
 
-• Диаграмма последовательностей (вызовы методов в классе Main)
+  • Диаграмма последовательностей (вызовы методов в классе Main)
 ![image](https://user-images.githubusercontent.com/71172186/207374569-1a164f7f-77fc-48ff-86c2-9697e1962e28.png)
 
-• Диаграмма прецедентов
+  • Диаграмма прецедентов
 ![image](https://user-images.githubusercontent.com/71172186/207374812-20afc2bf-a29b-4ae3-9817-d46e5136e18a.png)
 
-• Диаграмма последовательностей (добавление сотрудника в университет)
+  • Диаграмма последовательностей (добавление сотрудника в университет)
 ![image](https://user-images.githubusercontent.com/71172186/207375064-3eeea130-273f-4666-95a2-a56d3c9f846a.png)
 
-• Диаграмма классов
+  • Диаграмма классов
 ![image](https://user-images.githubusercontent.com/71172186/207375321-f18f1b79-a0b8-45b7-98b0-b6ccf52eb081.png)
 
-• Диаграмма состояний
+  • Диаграмма состояний
 ![image](https://user-images.githubusercontent.com/71172186/207375486-0b491d2d-ae8c-49d8-a904-6a9d47aed11e.png)
